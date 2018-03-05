@@ -1,0 +1,50 @@
+#sign_up_carre {
+	margin-top: 5%;
+	font-size: 300%;
+	color: white;
+	margin-left: 32%;
+	background-color: grey;
+	width: 40%;
+	padding-bottom: 1%;
+	margin-bottom: 10%;
+}
+
+#sign_title:hover {
+	color: #6ED3FF;
+	text-decoration: none;
+}
+
+#sign_title h1 {
+	font-size: 100%;
+	text-align: center;
+}
+
+#sign_title h1 title {
+	font-size: 50%;
+	text-align: center;
+}
+
+#containers {
+	margin-left: 10%;
+}
+
+label {
+	font-size: 40%;
+}
+
+input {
+	width: 50%;
+}
+
+label:hover, label:focus {
+	color: #6ED3FF;
+	text-decoration: none;
+}
+
+#input_send {
+	margin-left: 10%;
+}
+
+#description {
+	display:block;
+}

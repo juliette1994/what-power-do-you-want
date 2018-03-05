@@ -1,0 +1,13 @@
+.title {
+	font-size: 80%;
+}
+
+.text {
+	font-size: 40%;
+	text-decoration: underline;
+}
+
+.answer {
+	font-size: 35%;
+	color: yellow;
+}

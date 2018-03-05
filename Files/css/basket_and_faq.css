@@ -1,0 +1,71 @@
+#price_object_totaux {
+	font-size: 40%;
+	border: 1px dashed black;
+	color: black;
+}
+
+#containers {
+	margin-right: 10%;
+	border: 1px outset white;
+	padding: 4%;
+}
+
+.title_basket {
+	text-align: center;
+	font-size: 50%;
+}
+
+.div_basket {
+	border: 1px solid black;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.text_basket {
+	font-size: 38%;
+	font-family: Arial;
+	color: white;
+	border: 1px dashed yellow;
+}
+
+.text_total {
+	font-size: 50%;
+    font-family: Arial;
+    color: white;
+	text-align: center;
+    border: 1px dashed yellow;
+}
+
+.link {
+      color: white;
+}
+
+.link:hover {
+	color: yellow;
+}
+
+.price {
+	font-size: 35%;
+	color: yellow;
+	font-family: Arial;
+	text-align: right;
+}
+
+#img_title {
+	float: left;
+	text-align: center;
+	width: 10%;
+	height: 4%;
+}
+
+.img_basket {
+	margin-left: 40%;
+	text-align: center;
+	width: 20%;
+	height: 20%;
+}
+
+.bloc_basket {
+	margin-left: 10%;
+	margin-right: 10%;
+}

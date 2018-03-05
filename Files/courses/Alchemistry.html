@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="Categories" content="HTML, CSS", "XHTML">
+    <link rel="stylesheet" type="text/css" href="../css/pages.css">
+    <link rel="stylesheet" type="text/css" href="../css/description_potions.css">
+  </head>
+  <body>
+    <title>Alchemistry</title>
+    <nav id="menu_haut">
+      <ul>
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../categories.html">Categories</a></li>
+        <li><a href="../course.html">Course</a></li>
+	<li><a class="basket_count" value="0" href="../basket.html">Basket (3)</a></li>
+	<li><a href="../faq.html">FAQ</a></li>
+        <li><a href="../sign_up.html">Sign up</a></li>
+        <li><a href="../log_in.html">Log in</a></li>
+      </ul>
+    </nav>
+    <div id="element">
+      <div id="image">
+        <img src="../img/alchimie.jpeg" width="300" height="300" alt="Darkness Potion"/>
+      </div>
+      <div id="Description">
+        <h1 id="titre">Alchemistry</h1>
+        <p id="texte">To take alchemistry course, you have to go to the North of Korthos (the city of the dead), a course cost 1000 cristals and you can gain 1 point of power in alchemistry.</p>
+        <p id="texte">Teacher : Gelding</p>
+        <hr/>
+        <p class="texte_fr">Pour prendre des cours d'alchimie, il faut se rendre au nord de Korthos (la ville des morts), un cours coute 1000 cristaux et permet d'augmenter votre puissance en alchimie de 1 point.</p>
+      </div>
+      <div id="prix">
+        <p>Price: 1000 Cristals/course</p>
+	<img class="img_basket" src="../img/add_to_basket_button.png" alt="add to basket"></img>
+      </div>
+      <div id="commentaire">
+        <textarea name="comments" id="comments" tyle="text" placeholder="Comments" cols="96" rows="2" value=""></textarea>
+        <input id="submit" type="submit" value="SEND">
+      </div>
+    </div>
+  </body>
+  <footer>
+    <nav id="menu_footer">
+      <div class="bloc_footer">
+        <ul>
+          <a href="../contact.html"><img id="contact" class="img" src="../img/contact.png" alt="contact"/></a>
+          <img class="img" src="../img/copyright.png" alt="copyright"/>
+          <img class="img" src="../img/paiement.png" alt="paiement"/>
+        </ul>
+      </div>
+    </nav>
+  </footer>
+  <script type="text/javascript" src="../jquery-2.1.4.min.js"></script>
+  <script type="text/javascript" src="../comments.js"></script>
+  <script type="text/javascript" src="../file.js"></script>
+  <script type="text/javascript">
+    ajout_comments()
+    add_basket()
+  </script>
+</html>

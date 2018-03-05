@@ -1,0 +1,91 @@
+				CAHIER DES CHARGES
+
+------------------------------------HTML & CSS------------------------------------
+Lundi 26 Octobre 2015:
+
+
+10h00 - 10h30: Creation du groupe MQ.
+
+10h30 - 11h00: Premiere idee de site: "Univers Manga".
+
+11h00 - 12h00: REPAS.
+
+12h00 - 13h00: Changement d'idee: "What power do you want ?" (Site de vente de
+      	       pouvoirs magiques et d'accessoires de magie, tels aue:
+	       voler dans les airs, ...).
+
+13h00 - 16h30: Realisation de la maquette de la page d'accueil
+      	       du projet (croquis, taille, couleurs) sur Balsamiq.
+
+17h00: FIN de l'etape 0.
+
+
+Mardi 27 Octobre 2015:
+
+
+12h30 - 13h00: REPAS.
+
+13h00 - 16h00: Travail en CSS et HTML: creation de la page d'accueil.
+
+
+Mercredi 28 Octobre 2015:
+
+
+9h00 - 10h00: Finalisation de la page d'accueil.
+
+10h00 - 17h00: Realisation de la page "categories", "sign up", "footer".
+
+
+Jeudi 29 Octobre 2015:
+
+
+9h00 - 17h00: Realisation et finalisation des pages "log in", "sign up", "footer", "categories", "potions", "accessories", "course", ....
+
+
+Vendredi 30 Octobre 2015:
+
+
+8h30 - 17h00: Finalisation du projet et peaufinage des details ainsi que realisation de certains bonus.
+
+----------------------------------HTML, CSS & JS------------------------------------
+Jeudi 12 Novembre 2015:
+
+
+9h00 - 17h30: Realisation de la "Page d'accueil" (incrementation du panier en ajoutant un element dans le panier), de la "Page d'inscription" (formulaire avec cases vides), de la "Page commande" (changement de la quantite des produits achetes) et de l'ajout de commentaires sur les pages produits. 
+
+
+Vendredi 13 Novembre 2015:
+
+
+9h00 - 17h30: Finalisation du projet: commentaires et add to basket sur tout, revoir certains defaults et realisation de auelaues bonus.
+
+
+----------------------------------SQL, HTML, CSS, JS & PHP------------------------------------
+Lundi 30 Novembre 2015:
+
+
+9h00 - 17h00: Changement des extensions HTML en PHP. Header et flooter sont dans deux fichiers pour n'avoir a ecrire qu'une seule ligne a rajouter.
+
+
+Mardi 1 Decembre 2015:
+
+
+9h00 - 17h00: Suppression de toutes les pages produits et accessoires HTML. Creation d'une page potions.php, qui affiche via un $_GET['id'], toutes les potions. De meme, pour les accessoires.
+
+
+Mercredi 2 Decembre 2015:
+
+
+9h00 - 17h00: Creation des pages inscription.php et connection.php.
+
+
+Jeudi 3 Decembre 2015:
+
+
+9h00 - 17h00: Continuation de la realisation des pages precedentes. Creation de pages pour les requetes SQL.
+
+
+Vendredi 4 Decembre 2015:
+
+
+9h00 - 17h00: Creation du panier ainsi que continuation de la realisation des pages precedentes.

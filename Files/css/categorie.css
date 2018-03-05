@@ -1,0 +1,26 @@
+#potion {
+	     display: inline-block;
+             margin-left: 20%;
+             margin-top: 9%;
+}
+
+#potion li a {
+        font-size: 250%;
+      	margin-left: 16%;
+	margin-right: 16%;
+        color: white;
+
+}
+
+#accessoire {
+	         display: inline-block;
+		 margin-left: 30%;
+		 margin-top: 9%;
+}
+
+#accessoire li a {
+        font-size: 250%;
+	margin-left: 6%;
+	margin-right: 6%;
+        color: white;
+}

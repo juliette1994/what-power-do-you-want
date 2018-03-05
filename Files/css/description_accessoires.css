@@ -1,0 +1,72 @@
+#element {
+         margin-left: auto;
+         margin-right: auto;
+         margin-top: 10%;
+}
+
+#image {
+       text-align: center;
+}
+
+#titre {
+       text-align: center;
+       color: blue;
+       font-size: 300%;
+}
+
+#texte {
+       text-align: center;
+       color: white;
+       font-size: 150%;
+}
+
+#prix {
+      text-align: center;
+      color: white;
+      font-size: 250%;
+}
+
+#comments {
+	  display: block;
+	  margin-left: auto;
+          margin-right: auto;
+	  text-align: center;
+	  margin-top: 5%;
+	  margin-bottom: 1%;
+}
+
+#color {
+        width: 100%;
+}
+
+.space {
+       	background-color: aliceblue;
+        margin-bottom: 2%;
+}
+
+#user {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 2%;
+      height: 1%;
+}
+ 
+#commentaire p {
+      text-align: center;
+      color: midnightblue;
+      font-size: 150%;
+      width: 100%;
+}
+
+#submit {
+	display: block;
+	margin-left: auto;
+        margin-right: auto;
+	margin-bottom: 5%;
+}
+
+.img_basket {
+            width: 10%;
+            height: 10%;
+}

@@ -1,0 +1,26 @@
+#accessories {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 2%;
+}
+
+#accessories li a {
+  font-size: 200%;
+  color: white;
+  position: center;
+}
+
+.inline-block {
+  display: inline-block;
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 7%;
+}
+
+.block {
+  display: block;
+}
+
+.inline-block li {
+  text-align: center;
+}
